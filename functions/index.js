@@ -229,7 +229,8 @@ function generarPlantilla(tarjetas, total, c) {
                 <option value="">Todos</option>
                 <option value="Apartamento">Apartamento</option>
                 <option value="Casa">Casa</option>
-                <option value="Oficina">Oficina</option>
+                <option value="Lote">Lote</option>
+				<option value="Finca">Finca</option>
             </select>
         </div>
         <div class="item-busqueda">
